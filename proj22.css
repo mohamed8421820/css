@@ -1,0 +1,68 @@
+.topnav1 {
+   background-color: black;
+    display: inline;
+    border-radius: 16px;
+  }
+  
+ 
+  .topnav1 a {
+    
+    float: left;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+ 
+    
+    
+  }
+  
+  
+body{background-color: skyblue;}
+
+hr {width: 100%;color: black;}
+
+.p1{direction: rtl;}
+
+h2{font-style: italic;}
+
+.label1{}
+
+ul{direction: ltr;}
+
+img{direction: ltr;}
+
+.condo1{position: relative;
+width:100% ;
+max-width: 1000px; 
+min-height:1000px ;
+margin:50px ;
+background: aliceblue; display: grid;
+grid-template-columns: 1fr 2fr;
+box-shadow: 0 35px 55px rgb(0,0,0,0.1);
+}
+
+.condo1 .left_side{position: relative;
+background-color: midnightblue;
+padding: 40px;
+}
+
+.condo1 .right_side{position: relative;
+    background-color: white;
+    padding: 40px;
+    }
+
+    .profile{ position: relative;
+    display: flex;
+flex-direction: column ;} 
+
+.label2:hover{color: floralwhite; }
+
+.label3{display: block;}
+
+.h21:hover{color: aliceblue;}
+
+button:hover{background-color: darkslateblue;}
+hr{font-size: large;}
+
